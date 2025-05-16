@@ -1,1 +1,1 @@
-# TriTrainingRegressor
+# SemiSupervisedRegression
