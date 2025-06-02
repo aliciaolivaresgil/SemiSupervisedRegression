@@ -13,10 +13,10 @@ This comparison corresponds to the experimentation described in the PhD thesis c
 
 
 ## Requirements
-# Data
+### Data
 All datasets are available in the `data` folder. 
 
-# Conda environments
+### Conda environments
 all the Python code was executed using the conda environments available in this repository: 
 - `uci.yml`: Used to execute all the experiments except the Hierarchical Bayesian tests.
 - `baycomp.yml`: Used to execute the Bayesian tests. 
